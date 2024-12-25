@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": "nature",
+      "name": "طبيعة",
+      "description": "خلفيات طبيعية خلابة"
+    },
+    {
+      "id": "abstract",
+      "name": "تجريدي",
+      "description": "تصاميم تجريدية مميزة"
+    },
+    {
+      "id": "islamic",
+      "name": "إسلامي",
+      "description": "خلفيات إسلامية"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "wall-001",
+      "title": "غروب الشمس",
+      "description": "منظر خلاب لغروب الشمس على البحر",
+      "category": "nature",
+      "imageUrl": "https://raw.githubusercontent.com/your-repo/wallpapers/main/full/sunset.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-repo/wallpapers/main/thumbnails/sunset.jpg",
+      "dimensions": {
+        "width": 1440,
+        "height": 2560
+      },
+      "size": "2.5MB",
+      "tags": ["غروب", "بحر", "طبيعة"],
+      "downloads": 0,
+      "dateAdded": "2024-03-20"
+    },
+    {
+      "id": "wall-002",
+      "title": "تصميم هندسي",
+      "description": "نمط هندسي بألوان متناسقة",
+      "category": "abstract",
+      "imageUrl": "https://raw.githubusercontent.com/your-repo/wallpapers/main/full/geometric.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/your-repo/wallpapers/main/thumbnails/geometric.jpg",
+      "dimensions": {
+        "width": 1440,
+        "height": 2960
+      },
+      "size": "1.8MB",
+      "tags": ["هندسي", "تجريدي", "ألوان"],
+      "downloads": 0,
+      "dateAdded": "2024-03-20"
+    }
+  ]
+}
